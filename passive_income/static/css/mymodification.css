@@ -1,0 +1,49 @@
+body {
+    background: #0b1c2f;
+}
+
+
+#banner {
+    background: url("../images/banner-images/dollar.jpg") no-repeat center top;
+    background-size:cover;
+}
+
+.section-title {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 34px;
+    font-weight: 700;
+    color: white;
+}
+h4 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    color: cadetblue;
+}
+body {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 20px;
+    font-weight: normal;
+    color: wheat;
+}
+
+.section-subtitle {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    color: wheat;
+}
+.button, input[type="submit"] {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 14px;
+    font-weight: bold;
+    color: lightcoral;
+}
+.button, input[type="submit"] {
+    border-color: coral;
+}
+
+
+.testimonial.classic q, .testimonial.classic footer {
+    color: aqua;
+}
