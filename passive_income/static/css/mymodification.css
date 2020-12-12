@@ -4,7 +4,7 @@ body {
 
 
 #banner {
-    background: url("../images/banner-images/dollar.jpg") no-repeat center top;
+    background: url("../images/banner-images/dog.jpg") no-repeat center top;
     background-size:cover;
 }
 
@@ -48,7 +48,7 @@ body {
     color: aqua;
 }
 .client-overlay {
-    background: burlywood;
+    background: rgba(128, 90, 90, 0.377);
     position: absolute;
     right: 0;
     bottom: 0;
