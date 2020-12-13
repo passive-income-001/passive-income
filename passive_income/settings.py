@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'h0c0gp0kuv%h!+bdz&u359p2g&op-@+oy5@8j=55#2!%p7ivth'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','passivefinance.herokuapp.com']
 
