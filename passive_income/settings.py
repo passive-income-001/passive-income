@@ -26,7 +26,7 @@ SECRET_KEY = 'h0c0gp0kuv%h!+bdz&u359p2g&op-@+oy5@8j=55#2!%p7ivth'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','passive1ncome.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','passive1ncome.herokuapp.com','passive-income.io']
 
 
 # Application definition
