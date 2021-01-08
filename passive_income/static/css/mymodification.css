@@ -24,7 +24,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 20px;
     font-weight: normal;
-    color: black;
+    color: wheat;
 }
 .section-subtitle {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
@@ -64,12 +64,12 @@ body {
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;
-    color: cornsilk;
+    color: #47bec7;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
 #header.nav-solid {
-    background: rgba(0, 0, 0, 0);
+    background:rgb(128 90 90 / 58%);
     box-shadow: 2px 0px 3px rgba(255, 255, 255, 0.05);
     position: fixed !important;
     left: 0;

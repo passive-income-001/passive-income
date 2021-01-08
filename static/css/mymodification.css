@@ -68,7 +68,7 @@ body {
     padding-bottom: 0;
 }
 #header.nav-solid {
-    background: rgba(0, 0, 0, 0);
+    background: rgb(128 90 90 / 58%);
     box-shadow: 2px 0px 3px rgba(255, 255, 255, 0.05);
     position: fixed !important;
     left: 0;
