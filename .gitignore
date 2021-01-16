@@ -15,3 +15,15 @@ passive-income_io.ca-bundle
 /.vs/passive-income/v16/.suo
 /.vs/passive-income/config/applicationhost.config
 /.vs/slnx.sqlite
+/env
+/.vs
+/envPassiveIncomeVM
+/PassiveIncomeVM/Lib/site-packages/pip/_internal/cli
+/PassiveIncomeVM/Lib/site-packages/pip/_internal/commands
+/PassiveIncomeVM/Lib/site-packages/pip/_internal/distributions
+/PassiveIncomeVM/Lib/site-packages/pip/_internal
+/PassiveIncomeVM/Lib/site-packages/pip/_vendor/cachecontrol
+/PassiveIncomeVM/Lib/site-packages/pip
+/PassiveIncomeVM/Lib/site-packages
+/PassiveIncomeVM/Scripts
+/PassiveIncomeVM
